@@ -53,27 +53,3 @@ This affects screen reader accessibility (WCAG 1.1.1 — Non-text Content) and s
 **Status:** Open
 
 ---
-
-## Bug Report Template (for future use)
-
-```
-### BUG-XXX: [Short, specific title]
-
-- **Linked Test Case:**
-- **Severity:** Critical / High / Medium / Low
-- **Priority:**
-- **Environment:**
-
-**Steps to Reproduce:**
-1.
-2.
-3.
-
-**Expected Result:**
-
-**Actual Result:**
-
-**Notes:**
-
-**Status:** Open / In Progress / Resolved
-```
